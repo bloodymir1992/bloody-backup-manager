@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Bloody Backup Manager
+Comment=Analiza almacenamiento y crea respaldos organizados
+Exec=bloody-backup-manager
+Icon=bloody-backup-manager
+Terminal=false
+Type=Application
+Categories=Utility;System;
+StartupNotify=true
