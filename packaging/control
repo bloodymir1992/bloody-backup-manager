@@ -1,0 +1,12 @@
+Package: bloody-backup-manager
+Version: 0.6.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3, python3-gi, gir1.2-gtk-3.0, rsync, util-linux
+Recommends: libgdk-pixbuf2.0-bin
+Maintainer: BloodyTech
+Description: Bloody Backup Manager - graphical Linux backup manager
+ Thunar-like disk explorer with image thumbnails, cached on-demand folder sizes,
+ disk browsing, organized rsync backups, and SHA-256 content verification before
+ destructive space-freeing operations.
